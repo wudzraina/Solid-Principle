@@ -1,0 +1,10 @@
+C:\Solid\Solid Prinsiple\LiskovSubtitution\bin\Debug\netcoreapp3.1\LiskovSubtitution.deps.json
+C:\Solid\Solid Prinsiple\LiskovSubtitution\bin\Debug\netcoreapp3.1\LiskovSubtitution.dll
+C:\Solid\Solid Prinsiple\LiskovSubtitution\bin\Debug\netcoreapp3.1\LiskovSubtitution.pdb
+C:\Solid\Solid Prinsiple\LiskovSubtitution\obj\Debug\netcoreapp3.1\LiskovSubtitution.csproj.AssemblyReference.cache
+C:\Solid\Solid Prinsiple\LiskovSubtitution\obj\Debug\netcoreapp3.1\LiskovSubtitution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Solid\Solid Prinsiple\LiskovSubtitution\obj\Debug\netcoreapp3.1\LiskovSubtitution.AssemblyInfoInputs.cache
+C:\Solid\Solid Prinsiple\LiskovSubtitution\obj\Debug\netcoreapp3.1\LiskovSubtitution.AssemblyInfo.cs
+C:\Solid\Solid Prinsiple\LiskovSubtitution\obj\Debug\netcoreapp3.1\LiskovSubtitution.csproj.CoreCompileInputs.cache
+C:\Solid\Solid Prinsiple\LiskovSubtitution\obj\Debug\netcoreapp3.1\LiskovSubtitution.dll
+C:\Solid\Solid Prinsiple\LiskovSubtitution\obj\Debug\netcoreapp3.1\LiskovSubtitution.pdb

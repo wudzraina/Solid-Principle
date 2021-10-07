@@ -1,0 +1,58 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "SolidPrinsiple/1.0.0": {
+        "dependencies": {
+          "LiskovSubtitution": "1.0.0",
+          "OCPLibrary": "1.0.0",
+          "SingleResponsibility": "1.0.0"
+        },
+        "runtime": {
+          "SolidPrinsiple.dll": {}
+        }
+      },
+      "LiskovSubtitution/1.0.0": {
+        "runtime": {
+          "LiskovSubtitution.dll": {}
+        }
+      },
+      "OCPLibrary/1.0.0": {
+        "runtime": {
+          "OCPLibrary.dll": {}
+        }
+      },
+      "SingleResponsibility/1.0.0": {
+        "runtime": {
+          "SingleResponsibility.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SolidPrinsiple/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LiskovSubtitution/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "OCPLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SingleResponsibility/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

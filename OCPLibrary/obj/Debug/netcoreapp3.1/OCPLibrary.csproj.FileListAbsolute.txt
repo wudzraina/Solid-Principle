@@ -1,0 +1,10 @@
+C:\Solid\Solid Prinsiple\OCPLibrary\bin\Debug\netcoreapp3.1\OCPLibrary.deps.json
+C:\Solid\Solid Prinsiple\OCPLibrary\bin\Debug\netcoreapp3.1\OCPLibrary.dll
+C:\Solid\Solid Prinsiple\OCPLibrary\bin\Debug\netcoreapp3.1\OCPLibrary.pdb
+C:\Solid\Solid Prinsiple\OCPLibrary\obj\Debug\netcoreapp3.1\OCPLibrary.csproj.AssemblyReference.cache
+C:\Solid\Solid Prinsiple\OCPLibrary\obj\Debug\netcoreapp3.1\OCPLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Solid\Solid Prinsiple\OCPLibrary\obj\Debug\netcoreapp3.1\OCPLibrary.AssemblyInfoInputs.cache
+C:\Solid\Solid Prinsiple\OCPLibrary\obj\Debug\netcoreapp3.1\OCPLibrary.AssemblyInfo.cs
+C:\Solid\Solid Prinsiple\OCPLibrary\obj\Debug\netcoreapp3.1\OCPLibrary.csproj.CoreCompileInputs.cache
+C:\Solid\Solid Prinsiple\OCPLibrary\obj\Debug\netcoreapp3.1\OCPLibrary.dll
+C:\Solid\Solid Prinsiple\OCPLibrary\obj\Debug\netcoreapp3.1\OCPLibrary.pdb

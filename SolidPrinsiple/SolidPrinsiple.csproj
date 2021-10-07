@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\InterfaceSegregation\InterfaceSegregation.csproj" />
+    <ProjectReference Include="..\LiskovSubtitution\LiskovSubtitution.csproj" />
+    <ProjectReference Include="..\OCPLibrary\OCPLibrary.csproj" />
+    <ProjectReference Include="..\SingleResponsibility\SingleResponsibility.csproj" />
+  </ItemGroup>
+
+</Project>
