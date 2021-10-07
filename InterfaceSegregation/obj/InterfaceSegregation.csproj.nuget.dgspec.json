@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Solid\\Solid Prinsiple\\InterfaceSegregation\\InterfaceSegregation.csproj": {}
+    "C:\\Application\\Solid Prinsiple\\InterfaceSegregation\\InterfaceSegregation.csproj": {}
   },
   "projects": {
-    "C:\\Solid\\Solid Prinsiple\\InterfaceSegregation\\InterfaceSegregation.csproj": {
+    "C:\\Application\\Solid Prinsiple\\InterfaceSegregation\\InterfaceSegregation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Solid\\Solid Prinsiple\\InterfaceSegregation\\InterfaceSegregation.csproj",
+        "projectUniqueName": "C:\\Application\\Solid Prinsiple\\InterfaceSegregation\\InterfaceSegregation.csproj",
         "projectName": "InterfaceSegregation",
-        "projectPath": "C:\\Solid\\Solid Prinsiple\\InterfaceSegregation\\InterfaceSegregation.csproj",
+        "projectPath": "C:\\Application\\Solid Prinsiple\\InterfaceSegregation\\InterfaceSegregation.csproj",
         "packagesPath": "C:\\Users\\Muhallidin\\.nuget\\packages\\",
-        "outputPath": "C:\\Solid\\Solid Prinsiple\\InterfaceSegregation\\obj\\",
+        "outputPath": "C:\\Application\\Solid Prinsiple\\InterfaceSegregation\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

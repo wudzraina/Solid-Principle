@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Application\\Solid Prinsiple\\OCPLibrary\\OCPLibrary.csproj",
-      "projectName": "OCPLibrary",
-      "projectPath": "C:\\Application\\Solid Prinsiple\\OCPLibrary\\OCPLibrary.csproj",
+      "projectUniqueName": "C:\\Application\\Solid Prinsiple\\DependencyInversion\\DependencyInversion.csproj",
+      "projectName": "DependencyInversion",
+      "projectPath": "C:\\Application\\Solid Prinsiple\\DependencyInversion\\DependencyInversion.csproj",
       "packagesPath": "C:\\Users\\Muhallidin\\.nuget\\packages\\",
-      "outputPath": "C:\\Application\\Solid Prinsiple\\OCPLibrary\\obj\\",
+      "outputPath": "C:\\Application\\Solid Prinsiple\\DependencyInversion\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

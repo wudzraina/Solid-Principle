@@ -78,14 +78,18 @@ namespace SolidPrinsiple
 
             }
 
+            //Interface Segregation
             if (Choice == 3) {
-                
                 IDVD  dvd = new DVD();
-
-                dvd.   
-
             }
 
+            //Dependency Inversion
+            if (Choice == 4)
+            {
+               Person owner = new Person { 
+                    
+               }
+            }
 
         }
     }

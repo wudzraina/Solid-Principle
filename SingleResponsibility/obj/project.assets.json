@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Solid\\Solid Prinsiple\\SingleResponsibility\\SingleResponsibility.csproj",
+      "projectUniqueName": "C:\\Application\\Solid Prinsiple\\SingleResponsibility\\SingleResponsibility.csproj",
       "projectName": "SingleResponsibility",
-      "projectPath": "C:\\Solid\\Solid Prinsiple\\SingleResponsibility\\SingleResponsibility.csproj",
+      "projectPath": "C:\\Application\\Solid Prinsiple\\SingleResponsibility\\SingleResponsibility.csproj",
       "packagesPath": "C:\\Users\\Muhallidin\\.nuget\\packages\\",
-      "outputPath": "C:\\Solid\\Solid Prinsiple\\SingleResponsibility\\obj\\",
+      "outputPath": "C:\\Application\\Solid Prinsiple\\SingleResponsibility\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

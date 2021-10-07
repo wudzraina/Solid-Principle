@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Solid\\Solid Prinsiple\\OCPLibrary\\OCPLibrary.csproj": {}
+    "C:\\Application\\Solid Prinsiple\\OCPLibrary\\OCPLibrary.csproj": {}
   },
   "projects": {
-    "C:\\Solid\\Solid Prinsiple\\OCPLibrary\\OCPLibrary.csproj": {
+    "C:\\Application\\Solid Prinsiple\\OCPLibrary\\OCPLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Solid\\Solid Prinsiple\\OCPLibrary\\OCPLibrary.csproj",
+        "projectUniqueName": "C:\\Application\\Solid Prinsiple\\OCPLibrary\\OCPLibrary.csproj",
         "projectName": "OCPLibrary",
-        "projectPath": "C:\\Solid\\Solid Prinsiple\\OCPLibrary\\OCPLibrary.csproj",
+        "projectPath": "C:\\Application\\Solid Prinsiple\\OCPLibrary\\OCPLibrary.csproj",
         "packagesPath": "C:\\Users\\Muhallidin\\.nuget\\packages\\",
-        "outputPath": "C:\\Solid\\Solid Prinsiple\\OCPLibrary\\obj\\",
+        "outputPath": "C:\\Application\\Solid Prinsiple\\OCPLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

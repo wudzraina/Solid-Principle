@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Application\\Solid Prinsiple\\SingleResponsibility\\SingleResponsibility.csproj": {}
+    "C:\\Application\\Solid Prinsiple\\DependencyInversion\\DependencyInversion.csproj": {}
   },
   "projects": {
-    "C:\\Application\\Solid Prinsiple\\SingleResponsibility\\SingleResponsibility.csproj": {
+    "C:\\Application\\Solid Prinsiple\\DependencyInversion\\DependencyInversion.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Application\\Solid Prinsiple\\SingleResponsibility\\SingleResponsibility.csproj",
-        "projectName": "SingleResponsibility",
-        "projectPath": "C:\\Application\\Solid Prinsiple\\SingleResponsibility\\SingleResponsibility.csproj",
+        "projectUniqueName": "C:\\Application\\Solid Prinsiple\\DependencyInversion\\DependencyInversion.csproj",
+        "projectName": "DependencyInversion",
+        "projectPath": "C:\\Application\\Solid Prinsiple\\DependencyInversion\\DependencyInversion.csproj",
         "packagesPath": "C:\\Users\\Muhallidin\\.nuget\\packages\\",
-        "outputPath": "C:\\Application\\Solid Prinsiple\\SingleResponsibility\\obj\\",
+        "outputPath": "C:\\Application\\Solid Prinsiple\\DependencyInversion\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

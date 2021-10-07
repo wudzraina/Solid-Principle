@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BDevAWV9HS6yj2Kt/kXtNhDFTtl88NSTYHFiSuXkoteG8fSu+Tl0yuySOmearnLj6Piun3Z8Gv83E++dt8m3Iw==",
+  "dgSpecHash": "pwB8SnF55PBA5kGYy7feZw2imIPEeojvBwmK/MlXsHeqt1mR2oM+cRU4YXG6A4A/HEWdfc+tfPxvdTtHDZJcCQ==",
   "success": true,
-  "projectFilePath": "C:\\Solid\\Solid Prinsiple\\LiskovSubtitution\\LiskovSubtitution.csproj",
+  "projectFilePath": "C:\\Application\\Solid Prinsiple\\LiskovSubtitution\\LiskovSubtitution.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
