@@ -1,0 +1,10 @@
+C:\Application\Solid Prinsiple\InterfaceSegregation\bin\Debug\netcoreapp3.1\InterfaceSegregation.deps.json
+C:\Application\Solid Prinsiple\InterfaceSegregation\bin\Debug\netcoreapp3.1\InterfaceSegregation.dll
+C:\Application\Solid Prinsiple\InterfaceSegregation\bin\Debug\netcoreapp3.1\InterfaceSegregation.pdb
+C:\Application\Solid Prinsiple\InterfaceSegregation\obj\Debug\netcoreapp3.1\InterfaceSegregation.csproj.AssemblyReference.cache
+C:\Application\Solid Prinsiple\InterfaceSegregation\obj\Debug\netcoreapp3.1\InterfaceSegregation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Application\Solid Prinsiple\InterfaceSegregation\obj\Debug\netcoreapp3.1\InterfaceSegregation.AssemblyInfoInputs.cache
+C:\Application\Solid Prinsiple\InterfaceSegregation\obj\Debug\netcoreapp3.1\InterfaceSegregation.AssemblyInfo.cs
+C:\Application\Solid Prinsiple\InterfaceSegregation\obj\Debug\netcoreapp3.1\InterfaceSegregation.csproj.CoreCompileInputs.cache
+C:\Application\Solid Prinsiple\InterfaceSegregation\obj\Debug\netcoreapp3.1\InterfaceSegregation.dll
+C:\Application\Solid Prinsiple\InterfaceSegregation\obj\Debug\netcoreapp3.1\InterfaceSegregation.pdb

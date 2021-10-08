@@ -8,3 +8,13 @@ C:\Solid\Solid Prinsiple\SingleResponsibility\obj\Debug\netcoreapp3.1\SingleResp
 C:\Solid\Solid Prinsiple\SingleResponsibility\obj\Debug\netcoreapp3.1\SingleResponsibility.csproj.CoreCompileInputs.cache
 C:\Solid\Solid Prinsiple\SingleResponsibility\obj\Debug\netcoreapp3.1\SingleResponsibility.dll
 C:\Solid\Solid Prinsiple\SingleResponsibility\obj\Debug\netcoreapp3.1\SingleResponsibility.pdb
+C:\Application\Solid Prinsiple\SingleResponsibility\bin\Debug\netcoreapp3.1\SingleResponsibility.deps.json
+C:\Application\Solid Prinsiple\SingleResponsibility\bin\Debug\netcoreapp3.1\SingleResponsibility.dll
+C:\Application\Solid Prinsiple\SingleResponsibility\bin\Debug\netcoreapp3.1\SingleResponsibility.pdb
+C:\Application\Solid Prinsiple\SingleResponsibility\obj\Debug\netcoreapp3.1\SingleResponsibility.csproj.AssemblyReference.cache
+C:\Application\Solid Prinsiple\SingleResponsibility\obj\Debug\netcoreapp3.1\SingleResponsibility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Application\Solid Prinsiple\SingleResponsibility\obj\Debug\netcoreapp3.1\SingleResponsibility.AssemblyInfoInputs.cache
+C:\Application\Solid Prinsiple\SingleResponsibility\obj\Debug\netcoreapp3.1\SingleResponsibility.AssemblyInfo.cs
+C:\Application\Solid Prinsiple\SingleResponsibility\obj\Debug\netcoreapp3.1\SingleResponsibility.csproj.CoreCompileInputs.cache
+C:\Application\Solid Prinsiple\SingleResponsibility\obj\Debug\netcoreapp3.1\SingleResponsibility.dll
+C:\Application\Solid Prinsiple\SingleResponsibility\obj\Debug\netcoreapp3.1\SingleResponsibility.pdb

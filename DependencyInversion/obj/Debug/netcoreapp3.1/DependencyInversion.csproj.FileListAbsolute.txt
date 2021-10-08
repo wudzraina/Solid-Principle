@@ -1,0 +1,10 @@
+C:\Application\Solid Prinsiple\DependencyInversion\bin\Debug\netcoreapp3.1\DependencyInversion.deps.json
+C:\Application\Solid Prinsiple\DependencyInversion\bin\Debug\netcoreapp3.1\DependencyInversion.dll
+C:\Application\Solid Prinsiple\DependencyInversion\bin\Debug\netcoreapp3.1\DependencyInversion.pdb
+C:\Application\Solid Prinsiple\DependencyInversion\obj\Debug\netcoreapp3.1\DependencyInversion.csproj.AssemblyReference.cache
+C:\Application\Solid Prinsiple\DependencyInversion\obj\Debug\netcoreapp3.1\DependencyInversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Application\Solid Prinsiple\DependencyInversion\obj\Debug\netcoreapp3.1\DependencyInversion.AssemblyInfoInputs.cache
+C:\Application\Solid Prinsiple\DependencyInversion\obj\Debug\netcoreapp3.1\DependencyInversion.AssemblyInfo.cs
+C:\Application\Solid Prinsiple\DependencyInversion\obj\Debug\netcoreapp3.1\DependencyInversion.csproj.CoreCompileInputs.cache
+C:\Application\Solid Prinsiple\DependencyInversion\obj\Debug\netcoreapp3.1\DependencyInversion.dll
+C:\Application\Solid Prinsiple\DependencyInversion\obj\Debug\netcoreapp3.1\DependencyInversion.pdb

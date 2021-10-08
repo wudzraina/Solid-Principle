@@ -89,8 +89,8 @@ namespace SolidPrinsiple
             {
                 DependencyInversion.IPerson owner = new DependencyInversion.Person
                 {
-                    FirstName = "Time",
-                    LastName = "Corey",
+                    FirstName = "Muhallidin",
+                    LastName = "Wali",
                     EmailAddress = "wmuhallidin@gmail.com",
                     PhoneNumber = "555-1212"
                 };

@@ -8,12 +8,24 @@
     ".NETCoreApp,Version=v3.1": {
       "SolidPrinsiple/1.0.0": {
         "dependencies": {
+          "DependencyInversion": "1.0.0",
+          "InterfaceSegregation": "1.0.0",
           "LiskovSubtitution": "1.0.0",
           "OCPLibrary": "1.0.0",
           "SingleResponsibility": "1.0.0"
         },
         "runtime": {
           "SolidPrinsiple.dll": {}
+        }
+      },
+      "DependencyInversion/1.0.0": {
+        "runtime": {
+          "DependencyInversion.dll": {}
+        }
+      },
+      "InterfaceSegregation/1.0.0": {
+        "runtime": {
+          "InterfaceSegregation.dll": {}
         }
       },
       "LiskovSubtitution/1.0.0": {
@@ -35,6 +47,16 @@
   },
   "libraries": {
     "SolidPrinsiple/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DependencyInversion/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "InterfaceSegregation/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

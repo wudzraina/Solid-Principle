@@ -8,3 +8,13 @@ C:\Solid\Solid Prinsiple\LiskovSubtitution\obj\Debug\netcoreapp3.1\LiskovSubtitu
 C:\Solid\Solid Prinsiple\LiskovSubtitution\obj\Debug\netcoreapp3.1\LiskovSubtitution.csproj.CoreCompileInputs.cache
 C:\Solid\Solid Prinsiple\LiskovSubtitution\obj\Debug\netcoreapp3.1\LiskovSubtitution.dll
 C:\Solid\Solid Prinsiple\LiskovSubtitution\obj\Debug\netcoreapp3.1\LiskovSubtitution.pdb
+C:\Application\Solid Prinsiple\LiskovSubtitution\bin\Debug\netcoreapp3.1\LiskovSubtitution.deps.json
+C:\Application\Solid Prinsiple\LiskovSubtitution\bin\Debug\netcoreapp3.1\LiskovSubtitution.dll
+C:\Application\Solid Prinsiple\LiskovSubtitution\bin\Debug\netcoreapp3.1\LiskovSubtitution.pdb
+C:\Application\Solid Prinsiple\LiskovSubtitution\obj\Debug\netcoreapp3.1\LiskovSubtitution.csproj.AssemblyReference.cache
+C:\Application\Solid Prinsiple\LiskovSubtitution\obj\Debug\netcoreapp3.1\LiskovSubtitution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Application\Solid Prinsiple\LiskovSubtitution\obj\Debug\netcoreapp3.1\LiskovSubtitution.AssemblyInfoInputs.cache
+C:\Application\Solid Prinsiple\LiskovSubtitution\obj\Debug\netcoreapp3.1\LiskovSubtitution.AssemblyInfo.cs
+C:\Application\Solid Prinsiple\LiskovSubtitution\obj\Debug\netcoreapp3.1\LiskovSubtitution.csproj.CoreCompileInputs.cache
+C:\Application\Solid Prinsiple\LiskovSubtitution\obj\Debug\netcoreapp3.1\LiskovSubtitution.dll
+C:\Application\Solid Prinsiple\LiskovSubtitution\obj\Debug\netcoreapp3.1\LiskovSubtitution.pdb
