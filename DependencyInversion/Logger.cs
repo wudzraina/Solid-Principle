@@ -4,7 +4,10 @@ using System.Text;
 
 namespace DependencyInversion
 {
-    class Logger
+    public class Logger
     {
+        public void Log(string message) {
+            Console.WriteLine($"White to Console: { message }");
+        }
     }
 }

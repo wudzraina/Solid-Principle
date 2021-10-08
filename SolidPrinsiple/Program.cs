@@ -5,6 +5,7 @@ using System.Collections.Generic;
  
 using LiskovSubtitution;
 using InterfaceSegregation;
+using DependencyInversion;
 
 namespace SolidPrinsiple
 {
@@ -86,9 +87,26 @@ namespace SolidPrinsiple
             //Dependency Inversion
             if (Choice == 4)
             {
-               Person owner = new Person { 
-                    
-               }
+                DependencyInversion.IPerson owner = new DependencyInversion.Person
+                {
+                    FirstName = "Time",
+                    LastName = "Corey",
+                    EmailAddress = "wmuhallidin@gmail.com",
+                    PhoneNumber = "555-1212"
+                };
+
+                Chore chore = new Chore
+                {
+                    ChoreName = "Take out the trash",
+                    Owner = owner
+                };
+
+                chore.PerformedWork(3);
+                chore.PerformedWork(1.5);
+                chore.CompleteChore();
+
+                Console.ReadLine();
+
             }
 
         }
